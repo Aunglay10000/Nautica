@@ -1,8 +1,8 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-let serviceName = "";
-let APP_DOMAIN = "";
+let serviceName = "homepro";
+let APP_DOMAIN = "homevpn.site";
 
 let prxIP = "";
 let cachedPrxList = [];
